@@ -1,3 +1,5 @@
+#video link: https://drive.google.com/drive/folders/15dRPlnEgoyAc7YqpjHCJP_a-OMCf8WvD
+
 # Process_syncronisation_problems
 
 readers-writers-using-pthreads
